@@ -1,4 +1,4 @@
 # summitSCRUBSidleproject
-This is for the idle casting project
-test of commit
+This is for the idle casting project /n
+test of commit /n
 test of update
